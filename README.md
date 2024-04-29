@@ -22,4 +22,4 @@ Dicionarios de dados:
 
 Esse Dataset é da plataforma kaggel Peformance de alunos - clique no link
 
-![image](https://github.com/iancaabreu/Peformancealunossweetviz/assets/102169504/593ed90a-77c7-4a8c-8554-4d2eb8ae3463)
+
